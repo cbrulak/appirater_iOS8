@@ -11,7 +11,7 @@
     "Arash Payan (Original Author)": "arash.payan@gmail.com"
   },
   "source": {
-    "git": "https://github.com/cbrulak/appirater_iOS8",
+    "git": "https://github.com/cbrulak/appirater_iOS8.git",
     "tag": "3.0.0"
   },
   "source_files": "*.{h,m}",
