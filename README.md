@@ -1,3 +1,8 @@
+Pre-Introduction
+------------
+
+This is a fork of https://github.com/arashpayan/appirater for the sole purpose of support iOS8 to avoid this issue: https://github.com/arashpayan/appirater/issues/210 and push out a new cocoapod for use. I will suppor this as much as possible while the original repo is not being update. Changes will be communicated here. 
+
 Introduction
 ------------
 Appirater is a class that you can drop into any iPhone app (iOS 4.0 or later) that will help remind your users
