@@ -15,7 +15,7 @@ Getting Started
 ---------------
 
 ###Cocoapods
-If you're new to Cocoapods [watch this](http://nsscreencast.com/episodes/5-cocoapods). To add Appirater to your app, add `pod "Appirater"` to your Podfile.
+If you're new to Cocoapods [watch this](http://nsscreencast.com/episodes/5-cocoapods). To add Appirater to your app, add `pod "Appirater_iOS8"` to your Podfile.
 
 Cocoapods support is still experimental, and might not work in all use cases. If you experience problems, open an issue and install via Git submodule
 
