@@ -8,3 +8,8 @@ Version 2.0.4 *(2014-09-18)*
 Version 2.0.3 *(2014-05-14)*
 ----------------------------
  * New: Make alert content customizable
+
+
+Version 3.0.0 *(2015-05-08)* 
+-----------------------------
+ * New: support for iOS 8 so "null" doesn't appear at the app name
