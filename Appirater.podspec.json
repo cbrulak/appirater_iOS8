@@ -1,17 +1,18 @@
 {
-  "name": "Appirater",
-  "version": "2.0.4",
+  "name": "Appirater_ios8",
+  "version": "3.0.0",
   "platforms": {
-    "ios": "5.0"
+    "ios": "7.0"
   },
-  "summary": "A utility that reminds your iPhone app's users to review the app.",
-  "homepage": "http://arashpayan.com/blog/2009/09/07/presenting-appirater/",
+  "summary": "A utility that reminds your iPhone app's users to review the app. But with support for iOS 8",
+  "homepage": "https://github.com/cbrulak/appirater_iOS8",
   "authors": {
-    "Arash Payan": "arash.payan@gmail.com"
+	"Chris Brulak" : "ccmbrulak@gmail.com",
+    "Arash Payan (Original Author)": "arash.payan@gmail.com"
   },
   "source": {
-    "git": "https://github.com/arashpayan/appirater.git",
-    "tag": "2.0.4"
+    "git": "https://github.com/cbrulak/appirater_iOS8",
+    "tag": "3.0.0"
   },
   "source_files": "*.{h,m}",
   "resource_bundles": {
@@ -27,6 +28,6 @@
   "weak_frameworks": "StoreKit",
   "license": {
     "type": "MIT",
-    "text": "Copyright 2014. Arash Payan. This library is distributed under the terms of the MIT/X11."
+    "text": "Copyright 2014. Arash Payan. This library is distributed under the terms of the MIT/X11. This fork is being re-released as a cocoa pod to suport iOS 8."
   }
 }
